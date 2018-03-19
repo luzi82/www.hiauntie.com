@@ -1,3 +1,5 @@
+[back](index.md)
+
 # HiAuntie.com 聲明
 
 ## tl;dr
