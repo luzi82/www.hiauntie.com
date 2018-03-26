@@ -1,5 +1,11 @@
 # HiAuntie.com 系統
 
+## 維護時間及停機
+
+* 每週六凌晨 3:00：VM host OS 更新並重啟。HiAuntie.com 會短暫停頓約 5 分鐘。
+* 每天凌晨 3:30：HiAuntie.com DB backup，不重啟。HiAuntie.com 如常運作（除週六，下述）。
+* 每週六凌晨 3:30 DB backup 完成後：HiAuntie.com VM backup，然後 OS 更新並重啟。HiAuntie.com 會短暫停頓約 5 分鐘。
+
 ## 主伺服器
 
 * 一台伺服器底下的 VM。以下內容是 VM 的 spec。
@@ -15,12 +21,6 @@
 
 * 維護作業由 VM host 定期執行。src = https://github.com/luzi82/maintenance.hiauntie.com
 * 用戶上傳的檔案會傳送到 Amazon S3。
-
-## 維護時間及停機
-
-* 每週六凌晨 3:00：VM host OS 更新並重啟。HiAuntie.com 會短暫停頓約 5 分鐘。
-* 每天凌晨 3:30：HiAuntie.com DB backup，不重啟。HiAuntie.com 如常運作（除週六，下述）。
-* 每週六凌晨 3:30 DB backup 完成後：HiAuntie.com VM backup，然後 OS 更新並重啟。HiAuntie.com 會短暫停頓約 5 分鐘。
 
 ## backup
 
