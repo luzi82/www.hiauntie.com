@@ -21,7 +21,7 @@
 
 ### 「HiAuntie」呢個名好難聽
 
-想玩 Mastodon，除了上 HiAuntie.com 之外，還有其他選擇。用戶即使身處不同服務站﹐依然可以互相 follow。不同網站有不同的管理員，有不同的站規。
+想玩 Mastodon，除了上 HiAuntie.com 之外，還有其他選擇。用戶即使身處不同服務站，依然可以互相 follow。不同網站有不同的管理員，有不同的站規。
 
 * [mastodon.hk](https://mastodon.hk) 另一個香港人建立的服務站
 * [mastodon.social](https://mastodon.social) Mastodon 的官方服務站
