@@ -2,9 +2,34 @@
 
 ## 注意事項
 
+* [FAQ](faq.md)
 * [站規](rule.md)
 * [聲明](declaration.md)
 * [系統](system.md)
+
+## FAQ
+
+### 有沒有好的 Mastodon 手機軟件？
+
+其實站長自己也不太懂。官方 Mastodon 介紹了不少軟件，保證會選擇困難。
+
+https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/Apps.md
+
+現時站長是使用手機內置的「加到主畫面」功能。雖然可以看 toot 寫 toot 和收通知，但分享圖片或網頁時沒有 shortcut。
+
+![add_home_android](add_home_android.jpg) ![add_home_ios](add_home_ios.jpg)
+
+1. 在內置的 Chrome/Safari 瀏覧器打開 HiAuntie.com。
+1. 在右上角的 menu，選擇「加到主畫面」。
+
+### 「HiAuntie」呢個名好難聽
+
+想玩 Mastodon，除了上 HiAuntie.com 之外，還有其他選擇。用戶即使身處不同服務站﹐依然可以互相 follow。不同網站有不同的管理員，有不同的站規。
+
+* https://mastodon.hk 另一個香港人建立的服務站
+*　https://mastodon.social Mastodon 的官方服務站
+* https://pawoo.net 日本 pivix 建立的服務站，會員數比 Mastodon 官方服務站還多。很多日本畫師都是該站的會員(尤其是被 Twitter 踢出去的十八禁畫師)。
+* https://drytalk.social 站長的朋友建立的服務站
 
 ## 官方賬號
 
