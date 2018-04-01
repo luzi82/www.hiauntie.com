@@ -2,7 +2,6 @@
 
 ## 注意事項
 
-* [FAQ](faq.md)
 * [站規](rule.md)
 * [聲明](declaration.md)
 * [系統](system.md)
@@ -28,7 +27,7 @@ https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/Apps.md
 
 * https://mastodon.hk 另一個香港人建立的服務站
 *　https://mastodon.social Mastodon 的官方服務站
-* https://pawoo.net 日本 pivix 建立的服務站，會員數比 Mastodon 官方服務站還多。很多日本畫師都是該站的會員(尤其是被 Twitter 踢出去的十八禁畫師)。
+* https://pawoo.net 日本 pivix 建立的服務站，會員數比 Mastodon 官方服務站還多。很多日本畫師都是該站的會員(尤其是被 Twitter 踢出去的十八禁畫師和雜誌)。
 * https://drytalk.social 站長的朋友建立的服務站
 
 ## 官方賬號
