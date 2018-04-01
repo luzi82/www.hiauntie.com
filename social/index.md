@@ -10,9 +10,7 @@
 
 ### 有沒有好的 Mastodon 手機軟件？
 
-其實站長自己也不太懂。官方 Mastodon 介紹了不少軟件，保證會選擇困難。
-
-https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/Apps.md
+其實站長自己也不太懂。[官方 Mastodon 介紹了不少軟件](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/Apps.md)，保證會選擇困難。
 
 現時站長是使用手機內置的「加到主畫面」功能。雖然可以看 toot 寫 toot 和收通知，但分享圖片或網頁時沒有 shortcut。
 
