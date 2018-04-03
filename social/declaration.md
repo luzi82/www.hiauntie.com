@@ -23,7 +23,7 @@
 * 即使用戶把賬號和文章設為私人，如果該用戶授權另一個 Mastodon 伺服器的用戶閱讀自己的文章，該文章就會複製到該伺服器中儲存。這是全世界 Mastodon 的運作方式，不是站長可以控制。
 * 本站有定期 backup。即使刪除賬號，backup 中仍有紀錄。
 * 曾經有思考過要不要放 Google Analytics。但站長無意對本站做大力推廣。權衡過利害，就打消念頭。
-* 如果你是私隱偏執狂，站長建議你不要使用本站，並另設伺服器。
+* 如果你是私隱偏執狂，站長建議你不要使用本站，並另設伺服器。[Mastodon 官方開服務器指南](https://github.com/tootsuite/documentation/blob/master/Running-Mastodon/Production-guide.md)。
 
 ## 政治連繫
 
