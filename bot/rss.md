@@ -9,7 +9,7 @@
 
 ## 資訊
 
-* 極度歡迎各大傳媒自行架設 Mastodon 網站並發佈新聞。技術細節請參考 [joinmastodon.org](https://joinmastodon.org/) 。當貴司開始在 Mastodon 發佈新聞，相關 BOT 就會完成歷史使命並停止運作。
+* 極度歡迎各大傳媒自行架設 Mastodon 網站並發佈新聞。當貴司開始在 Mastodon 發佈新聞，相關 BOT 就會完成歷史使命並停止運作。技術細節請參考 [joinmastodon.org](https://joinmastodon.org/) 。
 * 如相關傳媒有版權上的不滿，請電郵與 BOT 主聯絡。相關 BOT 就會停止運作並刪除。但在此之前，懇請貴司再三考慮自行架設 Mastodon 伺服器並自行發佈新聞。否則，網民將無法在 Mastodon 網絡上輕易傳閱貴司的新聞，是非常可惜。
 * 如相關傳媒在 Mastodon 建站上有任何技術上的困難，歡迎電郵與 BOT 主聯絡。但由於 BOT 主亦是傳媒僱員之一，利益衝突，無法全力協助。技術交流 OK。
 * BOT 主：[栗子捌貳](https://hiauntie.com/@luzi82) ，電郵 luzi82@gmail.com
