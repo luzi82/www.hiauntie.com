@@ -2,7 +2,7 @@
 
 ## RSS BOT
 
-* [明報港聞](https://hiauntie.com/@mingpo_hk_rss) https://news.mingpao.com/rss/pns/s00002.xml
+* [明報港聞](https://hiauntie.com/@mingpo_hk_rss) https://news.mingpao.com/rss/ins/s00001.xml
 * [香港電台港聞](https://hiauntie.com/@rthk_hk_rss) http://rthk9.rthk.hk/rthk/news/rss/c_expressnews_clocal.xml
 * [蘋果要聞](https://hiauntie.com/@appleactionews_rss) http://rss.appleactionews.com/rss.xml (只輸出「即時要聞」)
 * [蘋果突發](https://hiauntie.com/@appleactionews_breaking_rss) http://rss.appleactionews.com/rss.xml (只輸出「即時突發」)
