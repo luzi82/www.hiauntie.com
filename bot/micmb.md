@@ -23,5 +23,5 @@
 
 * 測試帳號每 15 分鐘發文，並檢查能不能收到其他測試帳號的文章。
 * 如果其中一個測試帳號在一小時內收不到另一個測試帳號的文章，公告帳號就會發出警告。
-* 為免消耗伺服器容量，所有文章都會在 2 小時後被刪除。
-* src: https://github.com/luzi82/mastodon_instances_connection_monitor_bot
+* 為免消耗伺服器容量，所有測試文章都會在 2 小時後被刪除。
+* [GitHub](https://github.com/luzi82/mastodon_instances_connection_monitor_bot)
