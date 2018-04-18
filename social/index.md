@@ -23,10 +23,10 @@
 
 想玩 Mastodon，除了上 HiAuntie.com 之外，還有其他選擇。用戶即使身處不同服務站，依然可以互相 follow。不同網站有不同的管理員，有不同的站規。
 
-* [mastodon.hk](https://mastodon.hk) 另一個香港人建立的服務站
 * [mastodon.social](https://mastodon.social) Mastodon 的官方服務站
 * [pawoo.net](https://pawoo.net) 日本 pivix 建立的服務站，會員數比 Mastodon 官方服務站還多。很多日本畫師都是該站的會員(尤其是被 Twitter 踢出去的十八禁畫師和雜誌)。
 * [drytalk.social](https://drytalk.social) 站長的朋友建立的服務站
+* [notfound.work](https://notfound.work) 站長的朋友建立的服務站。「如果有其他來自IT星球的朋友一起討論編程等相關話題就更好了」。[「我想研究怎樣隨機為這片區域帶來404 Not Found，為大家帶來痛苦的歡樂。」](https://notfound.work/@nuko/99810242079372162)
 * [joinmastodon.org](https://joinmastodon.org/) 官方的 Mastodon 入門網站，內置成千上萬的 Mastodon 連結。保證會選擇困難。
 * [instances.social](https://instances.social) Mastodon 網站搜尋。選擇困難的問題可能會稍為緩和一點？
 
